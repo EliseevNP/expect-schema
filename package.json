@@ -1,0 +1,29 @@
+{
+  "name": "expect-schema",
+  "version": "1.0.0",
+  "description": "Params validator",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "eslint:fix": "eslint --fix ."
+  },
+  "author": {
+    "name": "Nikita Eliseev",
+    "email": "npeliseev@gmail.com"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EliseevNP/expect-schema"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^7.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.2.0",
+    "prettier": "^2.2.1"
+  }
+}
